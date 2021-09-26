@@ -5,3 +5,5 @@ faceData.py - Analyzing the faces dataset with k-means / agglomerative clusterin
 OneHotEncoding.py - OneHotEncoder and ColumnTransformer: Categorical Variables with scikit-learn
 
 Discretization.py - Binning, Discretization, Linear Models, and Trees
+
+Interactions.py - Interactions and Polynomials
